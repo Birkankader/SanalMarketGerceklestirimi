@@ -1,0 +1,11 @@
+c:\users\birkan\documents\visual studio 2015\Projects\SuperMarketGerceklestirimi\SuperMarketGerceklestirimi\bin\Debug\SuperMarketGerceklestirimi.exe.config
+c:\users\birkan\documents\visual studio 2015\Projects\SuperMarketGerceklestirimi\SuperMarketGerceklestirimi\obj\Debug\SuperMarketGerceklestirimi.csprojResolveAssemblyReference.cache
+c:\users\birkan\documents\visual studio 2015\Projects\SuperMarketGerceklestirimi\SuperMarketGerceklestirimi\obj\Debug\SuperMarketGerceklestirimi.Properties.Resources.resources
+c:\users\birkan\documents\visual studio 2015\Projects\SuperMarketGerceklestirimi\SuperMarketGerceklestirimi\obj\Debug\SuperMarketGerceklestirimi.csproj.GenerateResource.Cache
+c:\users\birkan\documents\visual studio 2015\Projects\SuperMarketGerceklestirimi\SuperMarketGerceklestirimi\bin\Debug\SuperMarketGerceklestirimi.exe
+c:\users\birkan\documents\visual studio 2015\Projects\SuperMarketGerceklestirimi\SuperMarketGerceklestirimi\bin\Debug\SuperMarketGerceklestirimi.pdb
+c:\users\birkan\documents\visual studio 2015\Projects\SuperMarketGerceklestirimi\SuperMarketGerceklestirimi\obj\Debug\SuperMarketGerceklestirimi.exe
+c:\users\birkan\documents\visual studio 2015\Projects\SuperMarketGerceklestirimi\SuperMarketGerceklestirimi\obj\Debug\SuperMarketGerceklestirimi.pdb
+C:\Users\Birkan\documents\visual studio 2015\Projects\SuperMarketGerceklestirimi\SuperMarketGerceklestirimi\obj\Debug\SuperMarketGerceklestirimi.frmGiris.resources
+C:\Users\Birkan\documents\visual studio 2015\Projects\SuperMarketGerceklestirimi\SuperMarketGerceklestirimi\obj\Debug\SuperMarketGerceklestirimi.frmPersonel.resources
+C:\Users\Birkan\documents\visual studio 2015\Projects\SuperMarketGerceklestirimi\SuperMarketGerceklestirimi\obj\Debug\SuperMarketGerceklestirimi.frmMusteri.resources
